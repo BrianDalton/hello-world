@@ -1,2 +1,2 @@
-# hello-world
-intro to Github
+# About me
+Hi there! I am a data scientist with a background in vision research and education.
